@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    overflow-x: hidden;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 70vh;
+}
+
+.what {
+    margin-left: 5px;
+}
+
+.para1 {
+    width: 500px;
+    margin-left: 20px;
+    text-align: justify;
+
+}
+
+.button1 {
+    margin-left: 5px;
+}
+
+.accordion {
+    margin-left: 5px;
+}
+
+.about {
+    background-image: src;
+
+}
+
+.card-body img {
+    min-width: 50%;
+    max-width: 60px;
+
+
+}
+
+.photo6 img {
+
+    padding-bottom: 10px;
+}
